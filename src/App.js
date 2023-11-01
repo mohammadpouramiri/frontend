@@ -18,6 +18,7 @@ const App = () => {
         <div>
           <header>
             <Header />
+            <Header />
           </header>
           <main>
             <Routes>
