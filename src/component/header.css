@@ -1,0 +1,9 @@
+.background{
+    background-color: rgb(18, 18, 182 , 0.5);
+}
+
+.bgMain{
+    color: white;
+    padding: 30px 3px;
+    background-size: cover;
+}
